@@ -1,0 +1,7 @@
+# streamlit_app.py 
+# requirements.txt 파일
+streamlit>=1.21.0
+langserve>=0.1.0
+requests>=2.31.0
+fastapi>=0.95.0
+#출처: https://marcus-story.tistory.com/36 [Marcus' Stroy:티스토리]
